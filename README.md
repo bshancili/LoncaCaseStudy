@@ -1,8 +1,8 @@
-# Product Importer
+# Scraper Pipeline - Product Entry
 
 ## Overview
 
-The **Product Importer** is a Python script that parses an XML file containing product information and imports the data into a MongoDB database. 
+The **Scraper Pipeline - Product Entry** is a Python script that parses an XML file containing product information and imports the data into a MongoDB database. 
 
 ## Installation
 
